@@ -305,7 +305,7 @@ Wiring/Schematic:
 
 <br/><br/>
 
-##Lessons Learned and Future Work
+## Lessons Learned and Future Work
 
 Lessons Learned:
 
