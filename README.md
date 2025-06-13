@@ -24,8 +24,9 @@ Facilitator:
 <p align="center">Date</p>
 <br/><br/><br/>
 <br/><br/><br/>
+
 ## Introduction and Project Overview
-<br/><br/>
+<br/>
 <p align="justify">The rapid advancement of the Internet of Things (IoT) has made it possible to develop intelligent, interconnected systems capable of monitoring and controlling physical environments in real time. This project focuses on the design and implementation of a comprehensive IoT-based environmental monitoring and control system, leveraging the powerful ESP32 microcontroller in conjunction with the ESP Rainmaker cloud platform. The system aims to provide an accessible, scalable solution for monitoring ambient environmental conditions and remotely managing actuators such as fans, LEDs, or relays through a user-friendly mobile application.</p>
 <p align="justify">At its core, the system integrates multiple environmental sensors (e.g., temperature, humidity, pressure) with actuators (e.g., relays or motor drivers) on the ESP32 platform. Sensor data is collected periodically, processed locally on the device, and then published to the ESP Rainmaker cloud using a secure MQTT-based communication channel. This enables real-time data visualization, historical logging, remote control, and smart automation via the ESP Rainmaker mobile application, available on both Android and iOS platforms.
 Key functionalities and capabilities of the system include:</p>
